@@ -1,0 +1,10 @@
+body{
+    font-family: monospace;
+    padding: 30px;
+
+}
+.image-resize{
+    height: auto;
+    object-fit:cover ;
+    object-position: center center;
+}
